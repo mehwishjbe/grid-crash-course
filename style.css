@@ -28,6 +28,10 @@ body{
 
     /* grid-auto-rows: 200px; */
     grid-auto-rows: minmax(300px auto);  /*  */
+
+
+    /* grid-template-rows: 1fr 1fr 1fr; */
+    grid-template-rows: repeat(3, 1fr);
     
 }
 
