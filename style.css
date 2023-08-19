@@ -26,6 +26,8 @@ body{
     row-gap: 10px; */
     gap: 10px;
 
+    /* grid-auto-rows: 200px; */
+    grid-auto-rows: minmax(300px auto);  /*  */
     
 }
 
