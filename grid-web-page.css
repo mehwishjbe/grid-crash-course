@@ -101,4 +101,8 @@
       grid-template-columns: 1fr;
       width: 100%;
     }
+
+    .card:nth-of-type(1){
+      grid-column: 1;
+    }
   }
