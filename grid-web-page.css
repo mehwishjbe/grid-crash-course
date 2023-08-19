@@ -95,3 +95,10 @@
     background-color: hsl(217, 29%, 14%);
     color: #fff;
   }
+
+  @media(max-width: 768px){
+    .container{
+      grid-template-columns: 1fr;
+      width: 100%;
+    }
+  }
