@@ -1,0 +1,17 @@
+  @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Fasthand&family=Fuzzy+Bubbles:wght@700&display=swap');
+
+
+  *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+  body{
+    background: #edf2f8;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 13px;
+    line-height: 1.7;
+
+  }
+
