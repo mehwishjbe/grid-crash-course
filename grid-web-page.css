@@ -61,3 +61,21 @@
     line-height: 1.4;
     opacity: 70%;
   }
+
+  .card--bg-purple{
+    background-color: hsl(263, 55%, 52%);
+    color: #fff;
+    background-image: url('img1-quote.png');
+    background-repeat: no-repeat;
+    background-size: 150px 100px;
+    background-position: top 10px right 100px;
+  }
+
+  .card--bg-gray-blue{
+    background-color: hsl(217, 19%, 35%);
+    color: #fff;
+  }
+  .card--bg-black-blue{
+    background-color: hsl(217, 29%, 14%);
+    color: #fff;
+  }
