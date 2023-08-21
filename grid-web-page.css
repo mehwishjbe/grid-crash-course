@@ -37,7 +37,7 @@
   }
 
   .card{
-    background-color: white;
+    background-color: rgb(190, 188, 188);
     border-radius: 10px;
     padding: 30px;
     box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px; 
@@ -81,7 +81,7 @@
   .card--bg-purple{
     background-color: hsl(263, 55%, 52%);
     color: #fff;
-    background-image: url('img1-quote.png');
+    background-image: url('quote--removebg-preview\ \(1\).png');
     background-repeat: no-repeat;
     background-size: 150px 100px;
     background-position: top 10px right 100px;
